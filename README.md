@@ -1,7 +1,9 @@
-### Pixel Art Maker
+## Pixel Art Maker
 
-## Created March 11, 2021
+### Created March 11, 2021
 
-## James S Wood
+###James S Wood
 
-### Description of Project
+### Description of 
+
+This is a required JavaScript project for Udacity
